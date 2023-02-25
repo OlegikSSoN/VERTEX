@@ -1,0 +1,48 @@
+.work {
+    padding: 50px 0;
+    color: #fff;
+    background: #061e42;
+    position: relative;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+
+.ithem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.ithem-numb {
+    font-weight: 700;
+    font-size: 86px;
+    line-height: 101px;
+    border-right: 2px solid #fff;
+    height: 140px;
+    padding-right: 25px;
+    padding-top: 20px;
+    position: relative;
+    min-width: 150px;
+    width: 150px;
+}
+
+.ithem-text {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    padding-left: 25px
+}
+
+.ithem-title {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+}
