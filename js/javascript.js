@@ -79,3 +79,5 @@ window.onload = function () {
        localStorage.setItem("userEmail", userEmail.value);
    });
 };
+
+// https://habr.com/ru/post/496348/
