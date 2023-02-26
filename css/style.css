@@ -1,7 +1,11 @@
-.work {
+form {
+max-width: 400px;
+}
+
+/* .work {
     padding: 50px 0;
     color: #fff;
-    background: #061e42;
+    background: #132F59;
     position: relative;
 }
 
@@ -45,4 +49,4 @@
     font-weight: 700;
     font-size: 42px;
     line-height: 49px;
-}
+} */
