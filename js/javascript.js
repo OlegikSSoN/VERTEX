@@ -67,17 +67,17 @@
 //   setElementOnDOM('.test_local_store', text);
 // });
 
-window.onload = function () {
-  const userName = document.getElementById("name");
-  const userEmail = document.getElementById("email");
+// window.onload = function () {
+//   const userName = document.getElementById("name");
+//   const userEmail = document.getElementById("email");
 
-  userName.addEventListener("focusout", () => {
-      localStorage.setItem("userName", userName.value);
-  });
+//   userName.addEventListener("focusout", () => {
+//       localStorage.setItem("userName", userName.value);
+//   });
 
-   userEmail.addEventListener("focusout", () => {
-       localStorage.setItem("userEmail", userEmail.value);
-   });
-};
+//    userEmail.addEventListener("focusout", () => {
+//        localStorage.setItem("userEmail", userEmail.value);
+//    });
+// };
 
 // https://habr.com/ru/post/496348/
